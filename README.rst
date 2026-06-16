@@ -4,9 +4,9 @@
 jedi-vim - awesome Python autocompletion with VIM
 #################################################
 
-.. image:: https://travis-ci.org/davidhalter/jedi-vim.svg?branch=master
-   :target: https://travis-ci.org/davidhalter/jedi-vim
-   :alt: Travis-CI build status
+.. image:: https://github.com/davidhalter/jedi-vim/actions/workflows/ci.yml/badge.svg?branch=master
+    :target: https://github.com/davidhalter/jedi-vim/actions
+    :alt: Tests
 
 jedi-vim is a VIM binding to the autocompletion library
 `Jedi <http://github.com/davidhalter/jedi>`_.
